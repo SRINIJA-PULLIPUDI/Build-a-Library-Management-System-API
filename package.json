@@ -1,0 +1,17 @@
+{
+  "name": "build-a-library-management-system-api",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.x",
+    "sequelize": "^6.x",
+    "mysql2": "^3.x",
+    "dotenv": "^16.x",
+    "dayjs": "^1.x"
+  },
+  "devDependencies": {
+    "nodemon": "^3.x"
+  }
+}
