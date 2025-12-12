@@ -168,7 +168,8 @@ src/
 
 #  Database Schema Diagram
 This is the database schema diagram obtained by **mysql workbench**
-![Database Schema](Workbench Schema Diagram.png)
+
+![Database Schema](./Workbench-Schema-Diagram.png)
 
 ---
 
